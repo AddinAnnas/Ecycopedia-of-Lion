@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GreatCat.unity
+    guid: 5726d0706c455214aa4d0e5b62cf1b69
+  - enabled: 1
+    path: Assets/Scenes/SmallCat.unity
+    guid: b95176915b5747f48bed87894b0322f5
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/Cheetah.unity
+    guid: 02382d9cfec714947be48c8c1fcf8c4e
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/Jaguar.unity
+    guid: 29871da82a9151b43a6c70783fff3f6d
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/Leopard.unity
+    guid: f98e08c5a26432945ae459eb788d1326
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/Lion.unity
+    guid: 46b44888c05a1e147a127b8cb33f8d7b
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/SnowLeopard.unity
+    guid: 09e982421f7978a46ba07764b9d4add2
+  - enabled: 1
+    path: Assets/Scenes/GreatCat/Tiger.unity
+    guid: f2fa25bcaf471e2489213acd8b574363
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/AfricanGoldenCat.unity
+    guid: 168173fe4f28b4c468751138e37762f7
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Andean Cat.unity
+    guid: 81170e0021c39d541902e5ea16335ae5
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/AsiaticGoldenCat.unity
+    guid: 08afd4bbe9b204d4da7004f4f3fba30a
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/BobCat.unity
+    guid: 676d20eddefbe5646ba94506f5a1bf50
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Canada.unity
+    guid: 49c57d32d47692c4eb79b99d65d6cd76
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Caracal.unity
+    guid: 1b0afed4bf729504390de65f6d069b8e
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/EurasianLynx.unity
+    guid: 7364191212045b849914354ba77e1eda
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/FishingCat.unity
+    guid: 3f1ff5e0cf4c85f4f9e5f6c4ab4f607d
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/IberianLynx.unity
+    guid: 071707249a0ab2b47af8c66b96013ec3
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Jaguarundi.unity
+    guid: 14d6dae6170e36440882c215b623197e
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/JungleCat.unity
+    guid: f94fb08b05d16bf4f8748d4ede47ec3e
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/KodKod.unity
+    guid: f9dae9f300d8d354fb0be2a5d019864b
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/LeopartCat.unity
+    guid: 14aa808878f83b441bfbb42e175017df
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Marbled cat.unity
+    guid: 155e57a8f8f3d7e44946e828d519ab1c
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Margay.unity
+    guid: 3de371234caf1084ba8680a13e6043fa
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Ocelot.unity
+    guid: 7d8542e1e928bac4c8a4ecb7ee27d8e9
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Puma.unity
+    guid: a2365fcc89f46ae41a1ef73f51a902b4
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/Serval.unity
+    guid: 0ea9c6abab9345742b86e053053ca2a9
+  - enabled: 1
+    path: Assets/Scenes/SmallCat/WildCat.unity
+    guid: 724b790de52b90242aec41176a6a3118
+  m_configObjects: {}
